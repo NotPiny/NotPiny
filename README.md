@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Piny
-- 🌱 I’m currently learning Node.JS
-- 📫 How to reach me bit.ly/NotPiny
+- 🧑‍💻 I am most familiar with Node.js
+- 🌱 Trying (and failing) to learn java
+- 📭 DMs open (@NotPiny on twitter)
+- 🌐 https://bit.ly/m/Piny
 
 <!---
 NotPiny/NotPiny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
