@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Piny
 - 🧑‍💻 I am most familiar with Node.js
-- 🌱 Trying (and failing) to learn java
+- 🌱 Trying to learn java
 - 📭 DMs open (@NotPiny on twitter)
 - 🌐 https://bit.ly/m/Piny
 
