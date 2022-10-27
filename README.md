@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Piny
 - 🧑‍💻 I am most familiar with Node.js
 - 🌱 Trying to learn java
-- 📭 DMs open (@NotPiny on twitter)
+- 📭 DMs open (Piny#1000)
 - 🌐 https://bit.ly/m/Piny
 
 <!---
