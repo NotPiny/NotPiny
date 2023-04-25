@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=notpiny&label=Profile%20views&color=0e75b6&style=flat" alt="NotPiny" /> </p>
+
 - 👋 Hi, I’m Piny
 - 🧑‍💻 I am most familiar with Node.js
 - 🌱 Trying to learn java
