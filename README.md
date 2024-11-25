@@ -8,7 +8,7 @@
 </a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=notpiny&label=Profile%20views&color=0e75b6&style=flat" alt="NotPiny" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=notpiny&label=Profile%20views&color=0e75b6&style=flat" alt="NotPiny" /> <img src="https://api.statusbadges.me/badge/status/900126154881646634" alt="Discord status" /> </p>
 
 <!---
 NotPiny/NotPiny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
